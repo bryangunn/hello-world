@@ -1,2 +1,2 @@
 language: python
-install: ./dependency_install.sh
+install: dependency_install.sh
