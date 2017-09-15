@@ -1,2 +1,7 @@
 language: python
-install: ./dependency_install.sh
+
+python:
+  - "3.6"
+
+script:
+  - python hello.py
