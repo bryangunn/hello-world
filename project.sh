@@ -3,6 +3,7 @@
 echo
 echo '********************************************'
 echo '*                                          *'
-echo '* This is some project code for a tool fun *'
+echo '* This is some project code for a cool fun *'
 echo '*                                          *'
 echo '********************************************'
+exit 0
